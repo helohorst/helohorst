@@ -2,13 +2,6 @@
 
 Aqui você irá encontrar muito conteúdo referente qualidade de software!! Bora?!!!
   
-<br>
-<div align="center">
-  <a href="https://github.com/helohorst">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helohorst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
- 
-
 ## Skills
   
 **Frameworks e Bibliotecas**
